@@ -1,0 +1,31 @@
+FileName ::   MyFirstJavaProgram.java
+
+
+Compilation ::javac MyFirstJavaProgram.java
+
+
+Run  ::java MyFirstJavaProgram 
+
+
+About :::
+
+
+
+Creating a Java program  :- A program is nothing more than a sequence of characters, 
+like a sentence, a paragraph, or a poem. To create one,
+we need only define that sequence characters using a text editor in the same way as we do for e-mail. 
+MyFirstJavaProgram.java is an example program. Type these character into your text editor and save it into a file named MyFirstJavaProgram.java.
+
+
+
+
+Compiling a Java program :- At first, it might seem to you as though the Java programming language is designed to be best understood by the computer. 
+Actually,  the language is designed to be best understood by the programmer (that's you).
+A compiler is an application that translates programs from the Java language to a language more suitable for executing on the computer.
+It takes a text file with the .java extension as input (your program) and produces a file with a .class extension (the computer-language version). 
+
+
+
+
+Executing a Java program :- Once you compile your program, you can run it. This is the exciting part, 
+where the computer follows your instructions. To run the MyFirstJavaProgram program

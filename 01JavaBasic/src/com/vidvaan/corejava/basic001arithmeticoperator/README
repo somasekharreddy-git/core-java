@@ -1,0 +1,20 @@
+FileName ::   ArithmeticOperatorsExample.java
+
+About ::    We can use arithmetic operators to perform calculations with values in programs. 
+Arithmetic operators are used in mathematical expressions in the same way that they are used in algebra. 
+A value used on either side of an operator is called an operand. 
+For example, in below statement the expression 47 + 3, the numbers 47 and 3 are operands.
+The arithmetic operators are examples of binary operators because they require two operands. 
+The operands of the arithmetic operators must be of a numeric type. 
+You cannot use them on boolean types, but you can use them on char types, since the char type in Java is, essentially, a subset of int.
+
+
+   -----A holds 10 and variable B holds 20----
+
+
++	Addition - Adds values on either side of the operator	            :: A + B will give 30
+-	Subtraction - Subtracts right hand operand from left hand operand	:: A - B will give -10
+*	Multiplication - Multiplies values on either side of the operator	:: A * B will give 200
+/	Division - Divides left hand operand by right hand operand	        :: B / A will give 2
+%	Modulus - Divides left hand operand by right hand operand and       :: B % A will give 0
+    returns remainder	
